@@ -11,7 +11,7 @@
   src: url(Ghostero\ DEMO.otf);
 }
 @font-face {
-  font-family: saiyan;
+  font-family: saiyan-san;
   src: url(./Saiyan-Sans\ Right\ Oblique.ttf);
 }
 .everything {
@@ -130,7 +130,7 @@
   height: 45%;
   color: rgb(153, 209, 219);
   background-color: rgb(41, 44, 60);
-  font-family: saiyan;
+  font-family: saiyan-san;
   font-size: 25px;
   margin-left: 18%;
   margin-right: -200%;
