@@ -82,7 +82,7 @@
 }
 .icons{
   width: 20%;
-  height: 50%;
+  height: 30%;
   text-decoration: none;
 }
 .skillsss{
@@ -92,20 +92,26 @@
 .skill {
   text-align: center;
 }
+.spring{
+  width: 40;
+  height: 50%;
+}
 .table1 {
   font-family: Wagnesday;
   color: rgb(198, 208, 245);
   height: 50vh
 }
-
+.table2{
+  width: 100%;
+  text-align: center;
+}
 .pro {
   width: 300px;
   height: 300px;
 }
 .pro2{
   width: 300px;
-  height: 300px;
-  margin-left: 75%;
+  height: 300px;;
 }
 .proj {
   text-align: center;
@@ -117,43 +123,39 @@
   padding: 5% 10%;
 }
 .port {
-  width: 100%;
+  width: 30%;
   height: 45%;
   color: rgb(153, 209, 219);
   background-color: rgb(41, 44, 60);
   font-family: Ghostero;
   font-size: 25px;
-  margin-left: 13%;
 }
 .port2{
-  width: 135%;
+  width: 40%;
   height: 45%;
   color: rgb(153, 209, 219);
   background-color: rgb(41, 44, 60);
   font-family: saiyan-san;
   font-size: 25px;
-  margin-left: 18%;
-  margin-right: -200%;
 }
 .linkedin {
   width: 27%;
   height: 27%;
-  margin-left: 38%;
   position: top;
-  margin-left: 35%;
 }
 .resume {
   width: 27%;
   height: 27%;
-  margin-left: 100%;
 }
 
 .fb {
   width: 27%;
   height: 27%;
-  margin-left: 50%;
   position: top;
-  margin-left: -30%;
+}
+.jicons{
+  width: 25%;
+  height: 25%;
 }
 @media only screen and (max-width: 768px){
   .mainh{
@@ -205,6 +207,10 @@
   .icons{
     width: 40px;
     height: 30px
+  }
+  .jicons{
+    width: 50px;
+    height: 40px;
   }
   .spring{
     width: 25%;
